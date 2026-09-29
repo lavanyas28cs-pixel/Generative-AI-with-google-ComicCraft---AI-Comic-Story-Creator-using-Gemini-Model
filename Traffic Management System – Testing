@@ -1,0 +1,8 @@
+Test Case 1: Traffic Signal Detection
+Check whether the system correctly detects the traffic level.
+Verify that the signal changes according to the traffic density.
+Confirm that the signal works without errors.
+Test Case 2: Emergency Vehicle Detection
+Check whether the system detects emergency vehicles.
+Verify that priority is given to emergency vehicles.
+Confirm that the traffic signal changes correctly.
